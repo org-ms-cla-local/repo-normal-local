@@ -1,23 +1,3 @@
 # repo-normal-dev
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Another PR
+# Small PR
