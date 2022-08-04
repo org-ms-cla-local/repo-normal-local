@@ -1,21 +1,3 @@
 # repo-normal-dev
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Test
